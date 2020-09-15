@@ -1,0 +1,11 @@
+<span id="a">hari@hari</span>:<span id="b">~</span><span id="c">$</span> cd /hari/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">hari@hari</span>:<span id="b">~</span><span id="c">$</span> sudo apt <!-- kjsdfhkjdhsfkjdshfkj -->update<br/><br/>
+result, "<span id="k">UPDATE SUCESSFULL</span>". <!-- sjkfhskjf -->
+
+Hi! Iam HARIKRISHNAN R.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm an BTECH student at ASIET MECHANICAL DEPARTMENT.</p>
+
+<p> Find Me on Social, <br> <a href="https://tme/hkpisharody">TELEGRAM</a> <br> <a href="https://instagram.com/harikrishnanpisharody?igshid=1u5ca82w92h27">INSTAGRAM</a>.</p>
+
+You can also give your email ID for contacting me<!-- slightdelayhere-->, feel free to send me an <!-- longlonglongcomment --><a href="mailto:harikrishnapisharody@gmail.com">Email</a>.
+
+<p>Cheers!</p>
