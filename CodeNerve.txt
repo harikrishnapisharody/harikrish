@@ -2,10 +2,8 @@
 <span id="a">hari@hari</span>:<span id="b">~</span><span id="c">$</span> sudo apt <!-- kjsdfhkjdhsfkjdshfkj -->update<br/><br/>
 result, "<span id="k">UPDATE SUCESSFULL</span>". <!-- sjkfhskjf -->
 
-Hi! Iam HARIKRISHNAN R.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+Hi! Iam HARIKRISHNAN R.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm an BTECH student at ASIET MECHANICAL DEPARTMENT.</p>
+
 <p> Find Me on Social, <br> <a href="https://tme/hkpisharody">TELEGRAM</a> <br> <a href="https://instagram.com/harikrishnanpisharody?igshid=1u5ca82w92h27">INSTAGRAM</a>.</p>
 
 You can also give your email ID for contacting <!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="harikrishnapisharody@gmail.com">Email</a>.
